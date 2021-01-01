@@ -2,7 +2,9 @@
 
 I'm Prajjwal aka pyGuru,
 
-Welcome to my little space on Github. I'm a Student, Developer, and Python Instructor. I like programming and designing. I am interested in extra-terrestrials and thus trying to understand our universe. I like photography and collecting pictures. Physics is an inevitable part of my life. A simple and down to earth boy who is so keen to learn every day a new thing. That is all about me.
+Welcome to my little space on Github. I'm a Student, Developer, and Python Instructor. I like programming and designing. I am interested in extra-terrestrials and trying to understand our universe. I like photography and collecting pictures. Physics is an inevitable part of my life. A simple and down to earth boy who is so keen to learn every day a new thing. That is all about me.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/pyGuru123/pyGuru123/blob/main/assets/levi.gif">
 
 - 🔭 I’m currently working on flask microservices.
 - 🌱 I’m currently learning everything 🤣
