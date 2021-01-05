@@ -14,7 +14,8 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 <details>
 	<summary>Interested in knowing more about me 👇 </summary>
 
-  <img alt="png" align="center" src="https://github.com/pyGuru123/pyGuru123/blob/main/assets/pyguru.png">
+  <br />
+  [<img alt="png" align="center" src="https://github.com/pyGuru123/pyGuru123/blob/main/assets/pyguru.png">][youtube]
 
   I'm a Student, Developer, and Python Instructor. I like programming 
   and designing. I am interested in extra-terrestrials and trying to 
@@ -31,6 +32,9 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 <br />
 
 [![Prajjwal's github stats](https://github-readme-stats.vercel.app/api?username=pyguru123&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://komarev.com/ghpvc/?username=pyguru123&label=PROFILE+VIEWS&style=flat-square) 
+[![GitHub followers](https://img.shields.io/github/followers/pyguru123.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/pyguru123?tab=followers)
 
 ### Connect with me:
 
