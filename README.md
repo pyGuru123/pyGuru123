@@ -27,7 +27,6 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 </details>
 
 <br />
-<br />
 
 ### ⚡ Github Stats
 
