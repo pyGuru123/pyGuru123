@@ -15,7 +15,7 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 	<summary>Interested in knowing more about me 👇 </summary>
 
   <br />
-  [<img alt="png" align="center" src="https://github.com/pyGuru123/pyGuru123/blob/main/assets/pyguru.png">][youtube]
+  <img alt="png" align="center" src="https://github.com/pyGuru123/pyGuru123/blob/main/assets/pyguru.png">
 
   I'm a Student, Developer, and Python Instructor. I like programming 
   and designing. I am interested in extra-terrestrials and trying to 
@@ -30,6 +30,7 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 </details>
 
 <br />
+### ⚡ Github Stats
 
 [![Prajjwal's github stats](https://github-readme-stats.vercel.app/api?username=pyguru123&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pyguru123&" alt="pyguru123"/>
@@ -37,7 +38,7 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 ![Profile views](https://komarev.com/ghpvc/?username=pyguru123&label=PROFILE+VIEWS&style=flat-square) 
 [![GitHub followers](https://img.shields.io/github/followers/pyguru123.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/pyguru123?tab=followers)
 
-### Connect with me:
+### ❤️ Connect with me
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
