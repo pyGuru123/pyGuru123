@@ -24,12 +24,11 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
   earth boy who is so keen to learn every day a new thing. 
   
   Know more about me on my blog : [Whistle of Darkness]
-
-  <br />
-
 </details>
 
 <br />
+<br />
+
 ### ⚡ Github Stats
 
 [![Prajjwal's github stats](https://github-readme-stats.vercel.app/api?username=pyguru123&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
