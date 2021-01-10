@@ -10,7 +10,7 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me : The fastest way to reach me is by Email
 - 🌐 My personal [blog site][Whistle of Darkness]
-- ⚡ Fun fact: I love music, animes and Ruskin Bond Stories.
+- ⚡ Fun fact : I am a melomaniac, an Otaku and a fan of Ruskin Bond Stories.
 
 <details>
 	<summary>Interested in knowing more about me 👇 </summary>
