@@ -9,13 +9,15 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me : The fastest way to reach me is by Email
-- ⚡ Fun fact: I love music, animes and Batman
+- 🌐 My personal [blog site][Whistle of Darkness]
+- ⚡ Fun fact: I love music, animes and Ruskin Bond Stories.
 
 <details>
 	<summary>Interested in knowing more about me 👇 </summary>
 
   <br />
   [<img alt="png" align="center" src="https://github.com/pyGuru123/pyGuru123/blob/main/assets/pyguru.png">][youtube]
+  <br />
 
   I'm a Student, Developer, and Python Instructor. I like programming 
   and designing. I am interested in extra-terrestrials and trying to 
@@ -23,7 +25,7 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
   I like photography and collecting pictures. A simple and down to 
   earth boy who is so keen to learn every day a new thing. 
   
-  Know more about me on my blog : [Whistle of Darkness]
+  Know more about me on my [blog][Whistle of Darkness]
 
   <br />
 
@@ -38,9 +40,9 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />][pinterest]
+[<img align="left" alt="pyGuru | YouTube" width="24px" src="https://github.com/pyGuru123/pyGuru123/blob/main/social/youtube.png" />][youtube]
+[<img align="left" alt="pyGuru | Instagram" width="24px" src="https://github.com/pyGuru123/pyGuru123/blob/main/social/instagram.png" />][instagram]
+[<img align="left" alt="pyGuru | Pinterest" width="24px" src="https://github.com/pyGuru123/pyGuru123/blob/main/social/pinterest.png" />][pinterest]
 
 
 <br />
