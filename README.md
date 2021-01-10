@@ -16,8 +16,12 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 	<summary>Interested in knowing more about me 👇 </summary>
 
   <br />
+<<<<<<< HEAD
   [<img alt="png" align="center" src="https://github.com/pyGuru123/pyGuru123/blob/main/assets/pyguru.png">][youtube]
   <br />
+=======
+  <img alt="png" align="center" src="https://github.com/pyGuru123/pyGuru123/blob/main/assets/pyguru.png">
+>>>>>>> 4438343873ce3f2febe639c8b23643f9efd92313
 
   I'm a Student, Developer, and Python Instructor. I like programming 
   and designing. I am interested in extra-terrestrials and trying to 
@@ -25,20 +29,27 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
   I like photography and collecting pictures. A simple and down to 
   earth boy who is so keen to learn every day a new thing. 
   
+<<<<<<< HEAD
   Know more about me on my [blog][Whistle of Darkness]
 
   <br />
 
+=======
+  Know more about me on my blog : [Whistle of Darkness]
+>>>>>>> 4438343873ce3f2febe639c8b23643f9efd92313
 </details>
 
 <br />
 
-[![Prajjwal's github stats](https://github-readme-stats.vercel.app/api?username=pyguru123&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+### ⚡ Github Stats
+
+[![Prajjwal's github stats](https://github-readme-stats.vercel.app/api?username=pyguru123&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pyguru123&" alt="pyguru123"/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=pyguru123&label=PROFILE+VIEWS&style=flat-square) 
 [![GitHub followers](https://img.shields.io/github/followers/pyguru123.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/pyguru123?tab=followers)
 
-### Connect with me:
+### ❤️ Connect with me
 
 [<img align="left" alt="pyGuru | YouTube" width="24px" src="https://github.com/pyGuru123/pyGuru123/blob/main/social/youtube.png" />][youtube]
 [<img align="left" alt="pyGuru | Instagram" width="24px" src="https://github.com/pyGuru123/pyGuru123/blob/main/social/instagram.png" />][instagram]
