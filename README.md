@@ -4,19 +4,20 @@ I'm Prajjwal aka pyGuru,
 
 Welcome to my little space on Github. Here i put my thoughts and ideas into code.
 
-- 🔭 I’m currently working on flask microservices.
-- 🌱 Currently learning everything 🤣
+- 🔭 Primary Coding language : Python
+- 🌱 Currently learning data science
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me : The fastest way to reach me is by Email
 - 🌐 My personal [blog site][Whistle of Darkness]
-- ⚡ Fun fact : I am a melomaniac, an Otaku and a fan of Ruskin Bond Stories.
+- ⚡ Fun fact : I am a melomaniac, an Otaku and a fan of Ruskin Bond Stories 🤣.
 
 <details>
 	<summary>Interested in knowing more about me 👇 </summary>
 
   <br />
   <img alt="png" align="center" src="https://github.com/pyGuru123/pyGuru123/blob/main/assets/pyguru.png">
+  <br />
   <br />
 
   I'm a Student, Developer, and Python Instructor. I like programming 
