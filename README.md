@@ -55,4 +55,4 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 
 <br />
 
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/pyguru123/pyguru123/blob/master/assets/marquee.svg"/>
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/pyGuru123/pyGuru123/blob/main/assets/marquee.svg"/>
