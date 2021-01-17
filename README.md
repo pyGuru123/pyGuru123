@@ -41,7 +41,7 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 
 ### ❤️ Connect with me
 
-[<img align="left" alt="pyGuru | YouTube" width="24px" src="https://github.com/pyGuru123/pyGuru123/blob/main/social/youtube.png" />][youtube]
+&nbsp;&nbsp;&nbsp;[<img align="left" alt="pyGuru | YouTube" width="24px" src="https://github.com/pyGuru123/pyGuru123/blob/main/social/youtube.png" />][youtube]
 [<img align="left" alt="pyGuru | Instagram" width="24px" src="https://github.com/pyGuru123/pyGuru123/blob/main/social/instagram.png" />][instagram]
 [<img align="left" alt="pyGuru | Pinterest" width="24px" src="https://github.com/pyGuru123/pyGuru123/blob/main/social/pinterest.png" />][pinterest]
 
@@ -55,4 +55,4 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 
 <br />
 
-Thanks for visiting my page. I hope you found more than what you came looking for.
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/pyguru123/pyguru123/blob/master/assets/marquee.svg"/>
