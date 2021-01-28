@@ -1,4 +1,5 @@
 ## Konnichiwa 👋
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/itspyguru/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://dwhistle.wordpress.com/)
 [![Youtube Badge](https://img.shields.io/badge/-youtube-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/pyGuru)
@@ -36,20 +37,14 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 
 <details>
 	<summary> ⚡ Github Stats </summary>
-	
+	<br />
+
 [![Prajjwal's github stats](https://github-readme-stats.vercel.app/api?username=pyguru123)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pyguru123&" alt="pyguru123"/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=pyguru123&label=PROFILE+VIEWS&style=flat-square) 
 ![GitHub followers](https://img.shields.io/github/followers/pyguru123?style=social)
 </details>
-
-<br />
-
-[Whistle of Darkness]: https://dwhistle.wordpress.com
-[youtube]: https://www.youtube.com/c/pyGuru
-[instagram]: https://www.instagram.com/prajjwalpathak35
-[pinterest]: https://www.pinterest.ca/prajjwalpathak3 
 
 #
 
@@ -58,3 +53,9 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+<!-- links -->
+[Whistle of Darkness]: https://dwhistle.wordpress.com
+[youtube]: https://www.youtube.com/c/pyGuru
+[instagram]: https://www.instagram.com/prajjwalpathak35
+[pinterest]: https://www.pinterest.ca/prajjwalpathak3 
