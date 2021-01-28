@@ -1,10 +1,10 @@
 ## Konnichiwa 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/itspyguru/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://dwhistle.wordpress.com/)
 [![Youtube Badge](https://img.shields.io/badge/-youtube-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/pyGuru)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/prajjwalpathak35/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ppathak35)
+[![Pinterest Badge](https://img.shields.io/badge/Pinterest-E8175D?style=flat-square&logo=pinterest&logoColor=white)](https://www.pinterest.ca/prajjwalpathak3)
 
 #### I'm Prajjwal aka pyGuru,
 
