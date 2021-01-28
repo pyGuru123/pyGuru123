@@ -1,6 +1,11 @@
-### Konnichiwa 👋
+## Konnichiwa 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/itspyguru/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://dwhistle.wordpress.com/)
+[![Youtube Badge](https://img.shields.io/badge/-youtube-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/pyGuru)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/prajjwalpathak35/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ppathak35)
 
-I'm Prajjwal aka pyGuru,
+#### I'm Prajjwal aka pyGuru,
 
 Welcome to my little space on Github. Here i put my thoughts and ideas into code.
 
@@ -39,12 +44,6 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 ![Profile views](https://komarev.com/ghpvc/?username=pyguru123&label=PROFILE+VIEWS&style=flat-square) 
 [![GitHub followers](https://img.shields.io/github/followers/pyguru123.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/pyguru123?tab=followers)
 
-### ❤️ Connect with me
-
-&nbsp;&nbsp;&nbsp;[<img align="left" alt="pyGuru | YouTube" width="24px" src="https://github.com/pyGuru123/pyGuru123/blob/main/social/youtube.png" />][youtube]
-[<img align="left" alt="pyGuru | Instagram" width="24px" src="https://github.com/pyGuru123/pyGuru123/blob/main/social/instagram.png" />][instagram]
-[<img align="left" alt="pyGuru | Pinterest" width="24px" src="https://github.com/pyGuru123/pyGuru123/blob/main/social/pinterest.png" />][pinterest]
-
 
 <br />
 
@@ -55,4 +54,10 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 
 <br />
 
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/pyGuru123/pyGuru123/blob/main/assets/marquee.svg"/>
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
