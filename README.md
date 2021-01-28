@@ -36,6 +36,7 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 
 <details>
 	<summary> ⚡ Github Stats </summary>
+	
 [![Prajjwal's github stats](https://github-readme-stats.vercel.app/api?username=pyguru123)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pyguru123&" alt="pyguru123"/>
 
