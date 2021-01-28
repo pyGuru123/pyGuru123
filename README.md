@@ -32,18 +32,16 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
   earth boy who is so keen to learn every day a new thing. 
   
   Know more about me on my [blog][Whistle of Darkness]
-
 </details>
 
-
-### ⚡ Github Stats
-
-[![Prajjwal's github stats](https://github-readme-stats.vercel.app/api?username=pyguru123&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+	<summary> ⚡ Github Stats </summary>
+[![Prajjwal's github stats](https://github-readme-stats.vercel.app/api?username=pyguru123)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pyguru123&" alt="pyguru123"/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=pyguru123&label=PROFILE+VIEWS&style=flat-square) 
-[![GitHub followers](https://img.shields.io/github/followers/pyguru123.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/pyguru123?tab=followers)
-
+![GitHub followers](https://img.shields.io/github/followers/pyguru123?style=social)
+</details>
 
 <br />
 
@@ -51,8 +49,6 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 [youtube]: https://www.youtube.com/c/pyGuru
 [instagram]: https://www.instagram.com/prajjwalpathak35
 [pinterest]: https://www.pinterest.ca/prajjwalpathak3 
-
-<br />
 
 #
 
