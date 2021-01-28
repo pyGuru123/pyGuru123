@@ -22,9 +22,7 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 	<summary>Interested in knowing more about me 👇 </summary>
 
   <br />
-  <img alt="png" align="center" src="https://github.com/pyGuru123/pyGuru123/blob/main/assets/pyguru.png">
-  <br />
-  <br />
+  <img alt="Hououin Kyoma" align="right" src="https://github.com/pyGuru123/pyGuru123/blob/main/assets/kyomaSquare.gif">
 
   I'm a Student, Developer, and Python Instructor. I like programming 
   and designing. I am interested in extra-terrestrials and trying to 
@@ -33,6 +31,10 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
   earth boy who is so keen to learn every day a new thing. 
   
   Know more about me on my [blog][Whistle of Darkness]
+
+  <img alt="Hououin Kyoma" align="center" src="https://github.com/pyGuru123/pyGuru123/blob/main/assets/madScientist.gif">
+  <br />
+  
 </details>
 
 <details>
