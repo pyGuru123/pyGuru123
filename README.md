@@ -32,8 +32,6 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
   
   Know more about me on my [blog][Whistle of Darkness]
   <br />
-  Checkout my [Resume](https://github.com/pyGuru123/pyGuru123/blob/main/Resume.pdf)
-  <br />
   
 </details>
 
