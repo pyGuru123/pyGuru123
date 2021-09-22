@@ -15,7 +15,7 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me : The fastest way to reach me is by Email
-- 🌐 My personal [blog site][Whistle of Darkness]
+- 🌐 Get your python projects done on [fiverr][fiverr]
 - ⚡ Fun fact : I am a melomaniac, an Otaku and a fan of Ruskin Bond Stories 🤣.
 
 <details>
@@ -55,6 +55,7 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 </div>
 
 <!-- links -->
+[fiverr]: https://www.fiverr.com/itspyguru
 [Whistle of Darkness]: https://dwhistle.wordpress.com
 [youtube]: https://www.youtube.com/c/pyGuru
 [instagram]: https://www.instagram.com/prajjwalpathak35
