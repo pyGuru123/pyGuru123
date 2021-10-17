@@ -12,7 +12,7 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 
 - 🔭 Primary Coding language : Python
 - 🌱 Currently learning data science
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other programmers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me : The fastest way to reach me is by Email
 - 🌐 Get your python projects done on [fiverr][fiverr]
