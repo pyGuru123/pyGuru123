@@ -1,4 +1,4 @@
-## Konnichiwa 👋
+## Konnichiwa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/itspyguru/)
 [![Youtube Badge](https://img.shields.io/badge/-youtube-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/pyGuru)
