@@ -24,14 +24,15 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
   <br />
   <img alt="Hououin Kyoma" align="right" src="https://github.com/pyGuru123/pyGuru123/blob/main/assets/madScientist.gif">
 
-  I'm a Student, Developer, and Python Instructor. I like programming 
-  and designing. I am interested in extra-terrestrials and trying to 
-  understand our universe, studying theoretical physics by my own. 
+  I'm a Student, Developer, and Python Instructor. I like programming, 
+  cryptography and designing. I am interested in extra-terrestrials and 
+  trying to understand our universe, studying theoretical physics by my own. 
   I like photography and collecting pictures. A simple and down to 
   earth boy who is so keen to learn every day a new thing. 
-  
-  Know more about me on my [blog][Whistle of Darkness]
   <br />
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=I+Love+Python;I'm+passionate+about+ML;I+love+making+Games+and+Apps;&width=400&height=50">
+  </p>
   
 </details>
 
