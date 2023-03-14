@@ -41,7 +41,7 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 	<br />
 
 [![Prajjwal's github stats](https://github-readme-stats.vercel.app/api?username=pyguru123)](https://github.com/anuraghazra/github-readme-stats)	
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pyguru123&" alt="pyguru123" align="right"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pyguru123&" alt="pyguru123"/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=pyguru123&label=PROFILE+VIEWS&style=flat-square) 
 ![GitHub followers](https://img.shields.io/github/followers/pyguru123?style=social)
