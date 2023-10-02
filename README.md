@@ -40,8 +40,18 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 	<summary> ⚡ Github Stats </summary>
 	<br />
 
-[![Prajjwal's github stats](https://github-readme-stats.vercel.app/api?username=pyguru123)](https://github.com/anuraghazra/github-readme-stats)	
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pyguru123&" alt="pyguru123"/>
+<div style="display:flex; flex-flow: column wrap;">
+	<div style="width:50%">
+	  	<a href="https://github.com/pyguru123">
+	    		<img src="https://github-readme-stats.vercel.app/api?username=pyguru123&show_icons=true&hide=&count_private=true&title_color=0D1117&text_color=50c878&icon_color=00FFFF&bg_color=0D1117&hide_border=true&show_icons=true" alt="Prajjwal's GitHub stats"/>
+	 	 </a>
+	</div>
+	<div style="width:50%">
+	    <a href="https://github.com/pyguru123">
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=pyguru123&stroke=ffffff&background=0D1117&ring=e2fdff&fire=14FE64&currStreakNum=e2fdff&currStreakLabel=e2fdff&sideNums=e2fdff&sideLabels=50c878&dates=50c878&hide_border=true" />
+	    </a>
+        </div>
+</div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=pyguru123&label=PROFILE+VIEWS&style=flat-square) 
 ![GitHub followers](https://img.shields.io/github/followers/pyguru123?style=social)
@@ -56,7 +66,7 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 </div>
 
 <!-- links -->
-[fiverr]: https://www.fiverr.com/itspyguru
+
 [Whistle of Darkness]: https://dwhistle.wordpress.com
 [youtube]: https://www.youtube.com/c/pyGuru
 [instagram]: https://www.instagram.com/prajjwalpathak35
